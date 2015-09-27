@@ -15,4 +15,8 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+<<<<<<< HEAD
 config1.txt merge=ours
+=======
+config1.txt	merge=ours
+>>>>>>> F2
